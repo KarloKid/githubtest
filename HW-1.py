@@ -1,0 +1,1 @@
+print("Hello world and welcome to my git repositiory. Idk what the fuck im doing. Some of the time.")
